@@ -1,3 +1,3 @@
 # hello-world
-First ever 
+First ever.
 Hi, my name is Harsh.
